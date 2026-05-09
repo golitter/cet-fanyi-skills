@@ -50,3 +50,4 @@ CET 四六级翻译练习技能，通过 `/cet-fanyi` 命令触发。<br>
 ## 参考
 1. https://www.bilibili.com/video/BV1Gw4m1X7db/
 2. https://www.zhihu.com/question/280581372/answer/2521870747
+3. https://cet.neea.edu.cn/html1/folder/16113/1588-1.htm
